@@ -1,11 +1,11 @@
 # Prediction of Invioce Payment Date
 
-This is an Emoji and Text Recognizer made for Cassandra, Udyam'22, organized by IIT(BHU).</br>
+This is a basic model made for Cassandra, Udyam'22, organized by IIT(BHU) for predicting number of days untill payment is made by a Vendor.</br>
 
 ## Problem Statement <br/>
 Our Sponsors are looking out for skillful Data Scientists who can apply Machine Learning to predict the cash flow of their clients or in simple words they ask you to forecast when the payment of an invoice will occur after the company receives the payable invoice. Ultimately, the task is to build a model that helps estimating when an invoice will be paid. The estimation doesn't have to be an exact date and time, a rough estimation in terms of days is sufficient for this task. You need to predict the Number of Days until Payment using the Dataset provided to you.<br/>
 
-Our Goal is to predict Number of Days until Payment feature by training a Machine Learning model on the Train Data.<br>
+**Our Goal is to predict Number of Days until Payment feature by training a Machine Learning model on the Train Data.**<br>
 
 ## Dataset Discussion <br/>
 There are various Columns in Dataset such as:-
