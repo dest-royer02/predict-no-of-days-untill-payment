@@ -1,0 +1,14 @@
+Private Score - 28.13624
+Public Score - 28.33280
+
+
+Write Up - 
+
+i) Used basic date pre-processing and data cleaning.
+ii) Removed Description Column as it had around 80%  null values.
+iii) Converted Created column into date time format. And extracted time and took out hours. And then extracted years, months and days.
+iv) And then extracted months, years, days from Invoice_Date and Due_date.
+v) We took out the difference of Invoice_Date and Due_Date.
+vi) And then converted the float columns of Amount, Settled and Outstanding into Int.
+vii) We took out the outliers.
+viii) We applied Standard Scaler and then applied Grade Boosting Regression. 
